@@ -1,8 +1,4 @@
-
-# coding: utf-8
-
-# In[1]:
-
+Task 1: Calculate Factorial Using a Function.
 
 def factorial(n):
     result = 1
@@ -14,8 +10,8 @@ result = factorial(sample_number)
 print(f"The factorial of {sample_number} is: {result}")
 
 
-# In[2]:
 
+Task 2: Using the Math Module for Calculations.
 
 import math
 
